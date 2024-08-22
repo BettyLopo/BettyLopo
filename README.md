@@ -4,24 +4,18 @@
 
 <p>:eye_speech_bubble: And sure, taking the leap into uncharted territory is always scary, but isn't it beautiful, the chance to keep growing and learning? To be offered the chance to put into practice everything you've learned, while always learning something new while doing it. And what better place to always be kept on my toes than the challenge of being a developer? So, if you have any challenges in mind, my inbox is ready to read you. Let's face the next step together! 👾</p>
 
-<h2>Find me in:</h2>
+### Find me in:
 <div>
   <a href="https://www.linkedin.com/in/elisabet-lopez-pons/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-<h2>GitHub Stats:fire::</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BettyLopo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BettyLopo&theme=dark&background=000000)](https://git.io/streak-stats)
+ ### GitHub Stats :fire: :
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BettyLopo&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BettyLopo&layout=compact)
 
-
-
-
-
-<div>
-  
-</div>
 
 <!--
 **BettyLopo/BettyLopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
