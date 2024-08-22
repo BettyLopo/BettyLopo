@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<h1>About me:</h1>
+
+<p>Hi! I'm Betty, a Full-Stack Developer coursing a Full-Stack Bootcamp in Barcelona. After working as a Graphic Designer for over 10 years and as a Community Manager for close to 2, I finally decided to follow my all-time dream :dizzy: and pursue a career in tech. My previous experience as a designer has given me ample knowledge that I've put into practice in my projects as a developer, designing the best user interface possible. </p>
+
+<p>And sure, taking the leap into uncharted territory is always scary, but isn't it beautiful, the chance to keep growing and learning? And what better place to always be kept on my toes than the challenge of being a developer? So, if you have any challenges in mind, my inbox is ready to read you. Let's face the next step together! 👾</p>
+
 <!--
 **BettyLopo/BettyLopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
